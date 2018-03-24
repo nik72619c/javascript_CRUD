@@ -1,0 +1,34 @@
+{
+  "myData": [
+    {
+      "id": "1",
+      "name": "",
+      "desc": "",
+      "price": "51",
+      "color": "#000000",
+      "url": "",
+      "date": "",
+      "markForDelete": false
+    },
+    {
+      "id": "1",
+      "name": "",
+      "desc": "",
+      "price": "51",
+      "color": "#000000",
+      "url": "",
+      "date": "",
+      "markForDelete": false
+    },
+    {
+      "id": "1",
+      "name": "",
+      "desc": "",
+      "price": "51",
+      "color": "#000000",
+      "url": "",
+      "date": "",
+      "markForDelete": false
+    }
+  ]
+}
