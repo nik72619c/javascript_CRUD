@@ -5,11 +5,13 @@ id = 9d17af19-6c9c-4782-a7ab-1715fa9be52e
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"916947-8250b0f1-80a2-4a3f-bc68-5452e2881e8c","path":"GEN_CLC1.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"index.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
